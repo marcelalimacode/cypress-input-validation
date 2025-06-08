@@ -88,7 +88,7 @@ O teste automatizado acessa o site de exemplo do Cypress (https://example.cypres
 
 
 ### Link para o Arquivo de Teste
-O código do teste correspondente pode ser encontrado no arquivo [projeto1_input.cy.js].
+O código do teste correspondente pode ser encontrado no arquivo [projeto1_input.cy.js](projeto1_input.cy.js).
 
 ---
 
