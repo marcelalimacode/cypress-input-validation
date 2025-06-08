@@ -1,5 +1,5 @@
 
-# 🧪 Projeto de Testes Automatizados com Cypress: Teste de Formulário
+# Projeto de Testes Automatizados com Cypress: Teste de Formulário
 
 Este projeto tem como objetivo demonstrar conhecimentos em testes de automação com **Cypress**, incluindo a estruturação de testes E2E, uso de boas práticas, execução em diferentes ambientes e documentação clara.
 
