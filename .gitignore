@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+package-lock.json
+.env
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+cypress/results/
+
+# Logs
+*.log
+npm-debug.log*
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Coverage (caso use cobertura de testes futuramente)
+coverage/
+
+# Relatórios
+allure-results/
+mochawesome-report/
